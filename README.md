@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Developer · Banglore, India</b><br/>
-  Currently building @ <a href="https://github.com/asmitamahadik">Litmus IT Systems</a> &nbsp;·&nbsp;
+  Currently building @ <a href="https://github.com/asmitamahadik">Litmus IT Services pvt ltd</a> &nbsp;·&nbsp;
   Passionate about clean UI, scalable APIs & AI-powered workflows
 </p>
 
