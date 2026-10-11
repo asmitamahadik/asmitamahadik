@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Asmita 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · Bengaluru, India</b><br/>
+  <b>Software Developer- Fullstack · Bengaluru, India</b><br/>
   Currently building @ <a href="https://github.com/asmitamahadik">Litmus IT Services pvt ltd</a> &nbsp;·&nbsp;
   Passionate about clean UI, scalable APIs & AI-powered workflows
 </p>
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working as a **Full-Stack Engineer** at Litmus IT Services pvt ltd on **Project Vigil**
+- 🔭 Currently working as a **Software Developer- Fullstack** at Litmus IT Services pvt ltd on **Project Vigil**
 - 💡 I build end-to-end web applications — from pixel-perfect UIs to robust REST APIs
 - 🤖 Exploring **Generative AI** and **Claude Code workflows** to automate real-world processes
 - 🌱 Always learning — currently deepening my skills in **NextJS** and **Cloud (GCP)**
