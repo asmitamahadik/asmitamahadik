@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working as a **Full-Stack Engineer Intern** at Litmus IT Systems on **Project Vigil**
+- 🔭 Currently working as a **Full-Stack Engineer** at Litmus IT Services pvt ltd on **Project Vigil**
 - 💡 I build end-to-end web applications — from pixel-perfect UIs to robust REST APIs
 - 🤖 Exploring **Generative AI** and **Claude Code workflows** to automate real-world processes
 - 🌱 Always learning — currently deepening my skills in **NextJS** and **Cloud (GCP)**
