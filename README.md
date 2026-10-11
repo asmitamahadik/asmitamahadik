@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Asmita 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · Banglore, India</b><br/>
+  <b>Full-Stack Developer · Bengaluru, India</b><br/>
   Currently building @ <a href="https://github.com/asmitamahadik">Litmus IT Services pvt ltd</a> &nbsp;·&nbsp;
   Passionate about clean UI, scalable APIs & AI-powered workflows
 </p>
